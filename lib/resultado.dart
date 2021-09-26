@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 class Resultado extends StatelessWidget {
   
+  
   final int pontosTotal;
   final void Function() resetar;
 
